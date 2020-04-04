@@ -46,7 +46,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 8,
     "versionPublish": "4.10.7",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-klass-128x128-1.png",
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-132496621-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-132496621-2');\r\n</script>",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -60,7 +60,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Accueil",
+        "title": "Accueil | Klass 4 Ever | Kompa",
         "meta_descr": "Klass est un célèbre groupe de Kompa Haïtien qui évolue dans le monde entier. Vous allez découvrir Pipo le Leader vocal, El Pozo le guitariste et Richie le batteur incontournable.",
         "header_custom": "",
         "footer_custom": "",
@@ -584,7 +584,7 @@
     "a-propos.html": {
       "settings": {
         "meta_descr": "Klass est un célèbre groupe de Kompa Haïtien qui évolue dans le monde entier. Vous allez découvrir Pipo le Leader vocal, El Pozo le guitariste et Richie le batteur incontournable.",
-        "title": "A Propos",
+        "title": "A Propos ",
         "order": 1
       },
       "components": [
@@ -1104,7 +1104,7 @@
     },
     "biographie.html": {
       "settings": {
-        "title": "Biographie",
+        "title": "Biographie ",
         "meta_descr": "Klass est un célèbre groupe de Kompa Haïtien qui évolue dans le monde entier. Vous allez découvrir Pipo le Leader vocal, El Pozo le guitariste et Richie le batteur incontournable.",
         "header_custom": "",
         "footer_custom": "",
@@ -1628,7 +1628,7 @@
     },
     "team.html": {
       "settings": {
-        "title": "Team",
+        "title": "Team | Klass 4 Ever | Kompa",
         "meta_descr": "Klass est un célèbre groupe de Kompa Haïtien qui évolue dans le monde entier. Vous allez découvrir Pipo le Leader vocal, El Pozo le guitariste et Richie le batteur incontournable.",
         "header_custom": "",
         "footer_custom": "",
